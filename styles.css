@@ -1,0 +1,11 @@
+.img-main {
+    width: 200px;
+    height: 200px
+}
+
+.pos {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-items: end;
+}
